@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá. Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alex-santos-dev/" target="_blank" ><i>Alex Santos</i></a> </h1>
+  <h1 align="center">Olá. Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alex-santos-dev/" target="_blank" ><i>Alex Santos!</i></a> </h1>
   <p align="center">Estou sempre em busca de aprendizado contínuo e
 atualização em tecnologias emergentes, dedicado a
 aprimorar minhas habilidades em programação. Com
