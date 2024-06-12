@@ -1,11 +1,15 @@
 <div>
-  <h1 align="center">Olá. Tudo bem? Eu sou o <a href="www.linkedin.com/in/alex-santos-5894b6183
-"><i>Alex Santos</i></a> 🥸 </h1>
-  <p align="center">Estudo Análise e Desenvolvimento de sistemas no <a href="https://www.pe.senac.br/"><i>Senac</i></a> e compartilho meu aprendizado no meu perfil do <a href="www.linkedin.com/in/alex-santos-5894b6183"><i>LinkedIn</i></a><span> 👈🏽️</span>
-  <!--<a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />-->
-  </a><br>
-  <p align="center">Já me segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <h1 align="center">Olá. Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alex-santos-dev/" target="_blank" ><i>Alex Santos</i></a> </h1>
+  <p align="center">Estou sempre em busca de aprendizado contínuo e
+atualização em tecnologias emergentes, dedicado a
+aprimorar minhas habilidades em programação. Com
+experiência em desenvolvimento de sistemas,
+integração de RPAs e implementação de soluções
+front-end e back-end, estou confiante de que posso
+contribuir significativamente para equipes de
+desenvolvimento de software.
+  <br>
+  <p align="center">Me siga no LinkedIn para acompanhar minhas experiências e me conhecer melhor! 😉️<p>
 </div>
 
 
@@ -49,11 +53,12 @@
 
 <div align="center">
   
-<!--  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)-->
-  
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
+<br>
+
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <code>Atualizado em: 12/06/2024</code>
 </div>
