@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá. Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alex-santos-dev/" target="_blank" ><i>Alex Santos!</i></a> </h1>
+  <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alex-santos-dev/" target="_blank" ><i>Alex Santos!</i></a> </h1>
   <p align="center">Estou sempre em busca de aprendizado contínuo e
 atualização em tecnologias emergentes, dedicado a
 aprimorar minhas habilidades em programação. Com
@@ -8,6 +8,27 @@ integração de RPAs e implementação de soluções
 front-end e back-end, estou confiante de que posso
 contribuir significativamente para equipes de
 desenvolvimento de software.
+  <br>
+  <p>Meu objetivo é sempre estar à frente em um ambiente em constante evolução, buscando continuamente o aprendizado e a aplicação de tecnologias emergentes. Minha experiência abrange:
+
+- Desenvolvimento de Sistemas: Capacidade comprovada em criar e manter sistemas, desde a concepção até a implementação;
+- Integração de RPAs: Experiência em automatizar processos empresariais, aumentando a eficiência e reduzindo erros manuais;
+- Desenvolvimento Full Stack: Competência em desenvolver tanto a interface do usuário quanto a lógica de negócios, utilizando uma variedade de tecnologias;
+
+Hard Skills:
+- Java Spring: Ferramenta preferida para desenvolvimento de back-end, aproveitando sua robustez e facilidade de integração;
+- Angular 8+: Framework JavaScript favorito para desenvolvimento de front-end, proporcionando uma excelente experiência de usuário;
+- JavaScript e TypeScript: Utilizo JavaScript para desenvolvimento web dinâmico, com TypeScript para maior robustez e clareza de código;
+- Python: Grande entusiasta de automação e análise de dados, utilizando bibliotecas poderosas para diversas aplicações;
+
+Banco de Dados:
+- SQL: Experiência com MySQL, PostgreSQL e SQL Server, lidando com grandes volumes de dados de forma eficiente;
+- NoSQL: Proficiência em MongoDB, manejando dados não estruturados e escaláveis;
+
+Ferramentas e Metodologias:
+- UML: Utilizo diagramas de Atividade, Classes, Sequência e Casos de Uso para modelar e planejar soluções;
+- Fluxogramas: Para visualizar e otimizar processos de desenvolvimento e fluxos de trabalho;
+</p>
   <br>
   <p align="center">Me siga no LinkedIn para acompanhar minhas experiências e me conhecer melhor! 😉️<p>
 </div>
@@ -63,5 +84,5 @@ desenvolvimento de software.
 <br>
 
 <div align="center">
-  <code>Atualizado em: 12/06/2024</code>
+  <code>Atualizado em: 10/07/2024</code>
 </div>
