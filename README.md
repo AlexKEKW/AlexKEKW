@@ -41,11 +41,11 @@ Ferramentas e Metodologias:
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexKEKW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexKEKW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlexKEKW&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AlexKEKW&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexKEKW&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexKEKW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexKEKW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  /> <br>
+  <img src="https://streak-stats.demolab.com?user=AlexKEKW&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AlexKEKW&theme=radical&column=-1&row=1&margin-w=6&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexKEKW&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -84,5 +84,5 @@ Ferramentas e Metodologias:
 <br>
 
 <div align="center">
-  <code>Atualizado em: 21/07/2024</code>
+  <code>Atualizado em: 24/07/2024</code>
 </div>
