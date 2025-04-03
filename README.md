@@ -1,15 +1,10 @@
 <div>
   <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alex-santos-dev/" target="_blank" ><i>Alex Santos!</i></a> </h1>
-  <p align="center">Estou sempre em busca de aprendizado contínuo e
-atualização em tecnologias emergentes, dedicado a
-aprimorar minhas habilidades em programação. Com
-experiência em desenvolvimento de sistemas,
-integração de RPAs e implementação de soluções
-front-end e back-end, estou confiante de que posso
-contribuir significativamente para equipes de
-desenvolvimento de software.
-  <br>
-  <p>Meu objetivo é sempre estar à frente em um ambiente em constante evolução, buscando continuamente o aprendizado e a aplicação de tecnologias emergentes. Minha experiência abrange:
+  <p align="center">Profissional com formação em Análise e Desenvolvimento de Sistemas e experiência em funções administrativas, logísticas e de desenvolvimento de software. Com inglês avançado, facilidade em novas tecnologias e rápida adaptação, destaco habilidades em gestão e 
+    organização de processos, sempre focado na eficiência e melhoria contínua. 
+    Meu objetivo é sempre estar à frente em um ambiente em constante evolução, buscando continuamente o aprendizado e a aplicação de tecnologias emergentes.
+    
+  <br> Minha experiência abrange:
 
 - Desenvolvimento de Sistemas: Capacidade comprovada em criar e manter sistemas, desde a concepção até a implementação;
 - Integração de RPAs: Experiência em automatizar processos empresariais, aumentando a eficiência e reduzindo erros manuais;
