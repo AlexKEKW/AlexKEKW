@@ -96,5 +96,5 @@ Ferramentas e Metodologias:
 <br>
 
 <div align="center">
-  <code>Atualizado em: 24/07/2024</code>
+  <code>Atualizado em: 17/05/2025</code>
 </div>
