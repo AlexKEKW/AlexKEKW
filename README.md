@@ -1,5 +1,10 @@
 <div>
   <h1 align="center">Olá! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/alex-santos-dev/" target="_blank" ><i>Alex Santos!</i></a> </h1>
+
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&size=60&duration=2500&pause=1000&color=27299F&background=171A1A00&vCenter=true&width=450&height=60&lines=Dev+Full+Stack;Dev+Back+End;Dev+Front+End" alt="Typing SVG" /></a>
+  </div>
+  
   <p align="center">Profissional com formação em Análise e Desenvolvimento de Sistemas e experiência em funções administrativas, logísticas e de desenvolvimento de software. Com inglês avançado, facilidade em novas tecnologias e rápida adaptação, destaco habilidades em gestão e 
     organização de processos, sempre focado na eficiência e melhoria contínua. 
     Meu objetivo é sempre estar à frente em um ambiente em constante evolução, buscando continuamente o aprendizado e a aplicação de tecnologias emergentes.
@@ -27,13 +32,6 @@ Ferramentas e Metodologias:
   <br>
   <p align="center">Me siga no LinkedIn para acompanhar minhas experiências e me conhecer melhor! 😉️<p>
 </div>
-
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexKEKW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
